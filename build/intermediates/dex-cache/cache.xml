@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_d04d34c1baba2df4017f0d6ac844bc58982d2b7d.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\libs\baidumapapi_cloud_v4_0_0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e2aca735ca322917c5ee5fd40d663773391cf0a6">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_0_0_4a93e12fc4d5f3d503f806ed40b8ce300beab725.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\libs\baidumapapi_search_v4_0_0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08f97ee0e35fb17d405d29bf62eef305faffffcc">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_0_0_2c5847631cdce269b688c96d90166d121bba10fc.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\libs\baidumapapi_map_v4_0_0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db4a1025ee9c6f95747aab4a69baa1391534d80e">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_0_0_cf2dba414b969191800186683b9f57c3b496024a.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudio\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6e45bce48c728b00e2ff913323d3aba37c910eb7.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_54be991c276adcbec049b1374aa8e07581f641fa.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\libs\baidumapapi_util_v4_0_0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1e9069435803e5a4f32dc429906def33a95aaf17">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_0_0_502fe1c33a5daf6ff4e404e439a8e04e6d2cc1c2.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0a36196b149e5f2f34bf2000f44e45a6646a61b2.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_5b0f7fa615f5fd9925760ef1499bc62fcb5fed41.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\libs\baidumapapi_base_v4_0_0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dc207932ddfb65566a157ca311a6a6dffc7fccab">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_0_0_0c330e1a2a3165b3d5ec915b67c255886f515dac.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\libs\baidumapapi_radar_v4_0_0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="81b00e6e2da11e12554d8cbf0acc23627fd1225b">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_0_0_6d00612529243506c71edc13e8beb3347032cf7b.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\locSDK_6.13_2ba25fa97089abcec070dc65cad0198ceaaaf097.jar" />
+    </item>
+    <item
+        jar="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\online_workspace\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_f441f268bd919da51b123865beac3876eeb80f52.jar" />
+    </item>
+
+</items>
